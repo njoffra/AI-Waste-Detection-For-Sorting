@@ -1,0 +1,34 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="CodeQuestsApp.models.Course.*" />
+          <option value="CodeQuestsApp.models.Task.*" />
+          <option value="CodeQuestsApp.models.Solution.*" />
+          <option value="django.db.models.fields.related.ForeignKey.username" />
+          <option value="CodeQuestsApp.models.Match.*" />
+          <option value="ReceptiApp.models.Recept.*" />
+          <option value="ReceptiApp.models.Sastojak.*" />
+          <option value="ReceptiApp.models.Kontakt.*" />
+          <option value="django.db.models.fields.related.ForeignKey.*" />
+          <option value="ReceptiApp.models.Komentar.*" />
+          <option value="MainApp.models.Topic.*" />
+          <option value="MainApp.models.Comment.id" />
+          <option value="MainApp.models.Comment.*" />
+          <option value="MainApp.models.LikeComment.*" />
+          <option value="BicomHackathon.HackathonApp.models.Course.*" />
+          <option value="BicomHackathon.HackathonApp.models.Test.*" />
+          <option value="VISApp.models.Poruka.*" />
+          <option value="VISApp.models.Lokacija.*" />
+          <option value="VISApp.models.Zahtjev.*" />
+          <option value="VISApp.models.Jedinica.*" />
+          <option value="VISApp.models.Oprema.*" />
+          <option value="VISApp.models.Logistika.*" />
+          <option value="VISApp.models.Baza.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
